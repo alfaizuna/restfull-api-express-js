@@ -1,0 +1,16 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+
+# Environment configuration
+.env
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.log
+*.iml
